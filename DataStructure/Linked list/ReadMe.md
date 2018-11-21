@@ -4,6 +4,7 @@
 ## Complexity
 Time Complexity: 
 search/access: O(n)
+
 delete/insert: O(1)
 
 ## Array VS Linked List
